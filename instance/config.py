@@ -1,0 +1,3 @@
+NEWS_API_KEY='e29321d34cad4b3f918380387b377874'
+
+#the secret api
