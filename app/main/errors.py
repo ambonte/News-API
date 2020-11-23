@@ -5,4 +5,4 @@ def four_Ow_four(error):
     '''
     function render_templates
     '''
-    return render_template('fourOwfour.html'),404
+    return render_template('fourOwfour.html'),40
