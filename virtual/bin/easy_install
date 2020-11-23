@@ -1,4 +1,4 @@
-#!/home/bonte/Desktop/News-API/virtual/bin/python
+#!/home/bonte/Desktop/wcd/News-API/virtual/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
